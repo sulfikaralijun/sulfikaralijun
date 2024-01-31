@@ -1,1 +1,1 @@
-![My Target in 2024](https://github.com/sulfikaralijun/sulfikaralijun/blob/main/Group%2012.png)
+![My Target in 2024](https://github.com/sulfikaralijun/sulfikaralijun/blob/main/github_contribution_graph.svg)
