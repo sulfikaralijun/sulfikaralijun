@@ -12,3 +12,9 @@
 
 Let's connect and collaborate! 👯‍♂️
 
+![](https://github-readme-stats.vercel.app/api?username=sulfikaralijun&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulfikaralijun&layout=compact&theme=highcontrast&card_width=467)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sulfikaralijun&theme=highcontrast&card_width=467)](https://git.io/streak-stats)
+
