@@ -11,6 +11,7 @@
 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/sulfikaralijun) or through email at sulfikaralijun@gmail.com.
 
 Let's connect and collaborate! 👯‍♂️
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=sulfikaralijun&show_icons=true&theme=highcontrast)
 
@@ -18,3 +19,4 @@ Let's connect and collaborate! 👯‍♂️
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sulfikaralijun&theme=highcontrast&card_width=467)](https://git.io/streak-stats)
 
+</div>
