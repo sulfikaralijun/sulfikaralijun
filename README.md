@@ -19,4 +19,6 @@ Let's connect and collaborate! 👯‍♂️
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sulfikaralijun&theme=highcontrast&card_width=467)](https://git.io/streak-stats)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/647afba940cee644b282809b?variant=dark&roadmaps=computer-science%2Cfrontend%2Cjavascript%2Cvue)](https://roadmap.sh)
+
 </div>
