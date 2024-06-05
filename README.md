@@ -1,6 +1,6 @@
 👋 Hello, I'm Sulfikar Alijun.
 
-🚀 I am Junior Fullstack Developer and Technology Enthusiast.
+🚀 I am Junior Front End Developer and Technology Enthusiast.
 
 🎓 Currently, I am focused on learning Web Development, with specific experience in Front End Development. My interests include Web Development, Mobile Development (Flutter), and Mathematics.
 
