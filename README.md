@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Beginner Full-Stack JavasSript Developer
 ----------------------------------------
 
-I'm computer science student, experience 1 year in front-end development
-
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [My Portfolio](http://alijun.web.id)
 * ✉️  You can contact me at [sulfikaralijun@gmail.com](mailto:sulfikaralijun@gmail.com)
