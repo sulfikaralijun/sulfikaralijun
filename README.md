@@ -9,7 +9,7 @@ I'm computer science student, experience less than 1 year in front-end developme
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [My Portfolio](http://alijun.web.id)
 * ✉️  You can contact me at [sulfikaralijun@gmail.com](mailto:sulfikaralijun@gmail.com)
-* 🧠  I'm learning VueJS
+* 🧠  I'm learning React
 
 ### Skills
 
